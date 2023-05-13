@@ -19,6 +19,19 @@
 
 [GoldenForest](https://github.com/Tayamarn/gf_db/ "My joint project. Website for my role-playing club.")
 
+**My achievements**\
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VereskZL)](https://github.com/ryo-ma/github-profile-trophy)
+
+**My leetcode**\
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VereskZL)](https://github.com/KnlnKS/leetcode-stats)
+
+
+**Contact me:**\
+tg: [@ZLVeresk](https://t.me/ZLVeresk)\
+email: ZLVeresk@gmail.com
+
 <!--
 **VereskZL/VereskZL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
